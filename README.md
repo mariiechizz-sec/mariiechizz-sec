@@ -1,79 +1,50 @@
-<div align="center">
-  <img src="https://vercel.app"/>
-</div>
+![MasterHead](https://vercel.app)
 
-<h2 align="center">Hi there, I'm Mariie Chizz <img src="https://giphy.com" width="35"></h2>
+<h1 align="center">Hi 👋, I'm Mariie Chizz</h1>
+<h3 align="center">A passionate Software Engineering student at Code & Sens in Morocco 🇲🇦 | Cybersecurity Enthusiast 🔐</h3>
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
-<div align="center">
-  <img src="https://giphy.com" width="180" alt="Coding cat"/>
-</div>
+<p align="left"> <img src="https://komarev.com" alt="MariieChizz" /> </p>
 
-<br>
+- 🔭 I’m currently studying at **Code & Sens (Morocco)** and building low-level & security projects
 
-### 🖤 About Me (`whoami`)
+- 🌱 I’m currently learning **Cybersecurity, Network Security, Cryptography, and Pentesting**
 
-```yaml
-name: "Mariie Chizz"
-github: "@MariieChizz"
-school: "Code & Sens - Morocco 🇲🇦"
-current_focus: "Cybersecurity & Low-Level Programming 🔐"
-vibe: "Coffee, C code, dark terminals, and cats 🐾"
-```
+- 💬 Ask me about **C, Linux, SQL, JavaScript, HTML, CSS**
 
-Hello! I am a Software Engineering student at **Code & Sens in Morocco**. Through peer-to-peer learning and hands-on challenges, I dived deep into **C programming** and **Linux** systems, which sparked my passion for understanding how systems work under the hood — and how to secure them.
+- 📫 How to reach me **your-email@example.com**
 
-- 🎀 **Currently working on:** Core curriculum projects at Code & Sens and hands-on security labs.
-- 🕷️ **Currently learning:** Network Security, Vulnerability Analysis, Cryptography, and Pentesting.
-- 💬 **Ask me about:** C, Linux, Web Development, CyberSec, or life at Code & Sens!
+<br clear="right"/>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="MariieChizz" height="30" width="40" /></a>
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
 
-### 🐾 Tech Stack & Tools
+<h2 align="center" style="margin: 10px;">GitHub Trophies</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://vercel.app" alt="MariieChizz" /></a> </p>
 
-<div align="center">
-  
-**Languages & Web**  
-![C](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![SQL](https://shields.io)
-
-**Systems & Cybersecurity**  
-![Linux](https://shields.io)
-![Bash](https://shields.io)
-![Git](https://shields.io)
-![Cybersecurity](https://shields.io)
-
-</div>
-
----
-
-### 📊 GitHub Stats
+<h2 align="center" style="margin: 10px;">Languages and Tools:</h2>
+<p align="left">
+  <a href="https://cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="c" width="40" height="40"/> </a>
+  <a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="linux" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/> </a>
+  <a href="https://kali.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="cybersecurity" width="40" height="40"/> </a>
+</p>
 
 <div align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
+<h2 align="center" style="margin: 5px 10px;">GitHub Stats</h2>
+
+<img align="center" src="https://vercel.app" alt="Mariie's GitHub Stats Graph"/>
+<br><br>
+<img align="center" src="https://vercel.app" alt="MariieChizz" />
+<br><br>
+<img align="center" src="https://vercel.app" alt="MariieChizz" />
 </div>
 
 ---
-
-### 💌 Let's Connect
-
-<div align="center">
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://shields.io" alt="Email"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://giphy.com" width="120" alt="Cute cat"/>
-  <p><i>Made with 🖤 and lots of code by Mariie Chizz</i></p>
-</div>
