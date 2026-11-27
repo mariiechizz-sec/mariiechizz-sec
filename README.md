@@ -1,4 +1,12 @@
-୨୧ Hello World! I'm Mariie Chizz 🐈‍⬛
+୨୧ Hello World! I'm Mariie Chizz <img src="./Assets/7.gif" width="50" />
+
+<div align="center">
+
+> initializing_mariie.exe...
+
+♡ Aspiring Cybersecurity Enthusiast | Developer | Linux Lover ♡
+
+</div>
 
 <div align="center">
 
