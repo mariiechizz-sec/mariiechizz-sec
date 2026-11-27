@@ -13,10 +13,10 @@
 ### 🖤 About Me (`whoami`)
 
 ```yaml
-name: Mariie Chizz
-github: @MariieChizz
-school: Code & Sens - Morocco 🇲🇦
-current_focus: Cybersecurity & Low-Level Programming 🔐
+name: "Mariie Chizz"
+github: "@MariieChizz"
+school: "Code & Sens - Morocco 🇲🇦"
+current_focus: "Cybersecurity & Low-Level Programming 🔐"
 vibe: "Coffee, C code, dark terminals, and cats 🐾"
 ```
 
@@ -52,8 +52,7 @@ Hello! I am a Software Engineering student at **Code & Sens in Morocco**. Throug
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://vercel.app"/>
-  <img height="175em" src="https://vercel.app"/>
+  <img src="https://demolab.com" alt="GitHub Streak" />
 </div>
 
 ---
