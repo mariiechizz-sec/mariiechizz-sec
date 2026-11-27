@@ -1,10 +1,4 @@
-<h2>
-  Hi there, I'm Mariie Chizz
-  <img src="https://media.giphy.com/media/your-gif.gif" width="50">
-</h2>
-♡ Aspiring Cybersecurity Enthusiast | Developer | Linux Lover ♡
-
-</div>
+୨୧ Hello World! I'm Mariie Chizz 🐈‍⬛
 
 <div align="center">
 
